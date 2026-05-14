@@ -1,0 +1,8 @@
+/* Thin global layer on top of Bootstrap (see main.jsx). */
+body {
+  margin: 0;
+}
+
+#root {
+  min-height: 100vh;
+}
